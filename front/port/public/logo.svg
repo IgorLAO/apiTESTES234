@@ -1,0 +1,25 @@
+<svg width="128" height="128" viewBox="0 0 64 64" role="img" aria-labelledby="title desc"
+     fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <title id="title">Logo minimalista de cinema clássico</title>
+  <desc id="desc">Projetor antigo com dois rolos e um feixe de luz triangular</desc>
+
+  <!-- rolos -->
+  <circle cx="20" cy="18" r="8"/>
+  <circle cx="36" cy="14" r="6"/>
+  <!-- furos dos rolos (mínimos para manter o look clean) -->
+  <circle cx="20" cy="18" r="2"/>
+  <circle cx="36" cy="14" r="1.5"/>
+
+  <!-- corpo do projetor -->
+  <rect x="16" y="26" width="28" height="18" rx="3"/>
+  <!-- lente -->
+  <circle cx="45" cy="35" r="2.5"/>
+
+  <!-- feixe de luz -->
+  <polygon points="47,26 60,35 47,44"/>
+
+  <!-- base simples -->
+  <line x1="24" y1="44" x2="22" y2="52"/>
+  <line x1="36" y1="44" x2="38" y2="52"/>
+  <line x1="18" y1="52" x2="42" y2="52"/>
+</svg>

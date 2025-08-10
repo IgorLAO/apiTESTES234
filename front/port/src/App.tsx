@@ -24,6 +24,7 @@ function App() {
               <p>Este é um projeto de portfólio pessoal, onde você pode ver alguns dos meus projetos e habilidades.</p>
               <p>Estou sempre aprendendo e melhorando minhas habilidades, então fique à vontade para entrar em contato se tiver alguma dúvida ou sugestão!</p>
               <p>Obrigado por ver essa coisa totalmente generica e chata!</p>
+              <p>AMO MINHA NAMORADA</p>
             </div>
           </div>
           <div className='projects'>
