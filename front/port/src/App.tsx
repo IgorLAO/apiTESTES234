@@ -16,8 +16,7 @@ function App() {
       </div>
       <h1>IGAO DO GAS</h1>
       <div className="card">
-        
-    
+        esse é apenas um estudo de portfólio, não tem nada de mais, apenas um teste para ver como fica
       </div>
   
     </>
